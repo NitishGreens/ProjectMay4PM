@@ -14,4 +14,8 @@ public class Employee {
 		System.out.println("mul");
 	}
 
+	public void div() {
+		System.out.println("div");
+	}
+
 }
