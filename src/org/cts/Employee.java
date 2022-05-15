@@ -10,4 +10,8 @@ public class Employee {
 		System.out.println("sub");
 	}
 
+	public void div() {
+		System.out.println("div");
+	}
+
 }
